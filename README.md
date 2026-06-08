@@ -20,6 +20,7 @@
 
 Say goodbye to complex design software; just type your idea and see it come to life on merchandise!
 
+<a name="features"></a>
 ## ✨ Features
 
 - **🧠 AI Logo Generation:** Harness the power of Gemini to create unique logos from text prompts.
@@ -28,6 +29,7 @@ Say goodbye to complex design software; just type your idea and see it come to l
 - **🎭 Smooth Animations:** Enhanced with Framer Motion for a fluid, delightful user experience.
 - **🎨 Beautiful UI:** Styled with Tailwind CSS v4 and Lucide React icons.
 
+<a name="tech-stack"></a>
 ## 🛠️ Tech Stack
 
 - **Frontend Framework:** React 19 + Vite
@@ -37,6 +39,7 @@ Say goodbye to complex design software; just type your idea and see it come to l
 - **AI Integration:** `@google/genai` (Gemini API)
 - **Language:** TypeScript
 
+<a name="getting-started"></a>
 ## 🏎️ Getting Started
 
 Want to run LogoMock locally? Follow these simple steps:
