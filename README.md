@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" alt="LogoStamp Banner" width="1200" height="475" />
+  <img src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" alt="LogoMock Banner" width="1200" height="475" />
 
-  <h1>🎨 LogoStamp</h1>
+  <h1>🎨 LogoMock</h1>
   <p><strong>Your Ultimate AI-Powered Logo Mockup Generator</strong></p>
 
   <p>
@@ -14,9 +14,9 @@
 
 ---
 
-## 🚀 What is LogoStamp?
+## 🚀 What is LogoMock?
 
-**LogoStamp** is an interactive web application that bridges the gap between imagination and reality. Powered by Google's cutting-edge **Gemini API**, LogoStamp allows you to effortlessly generate custom logos and instantly visualize them mapped onto beautiful product mockups—all in real-time. 
+**LogoMock** is an interactive web application that bridges the gap between imagination and reality. Powered by Google's cutting-edge **Gemini API**, LogoMock allows you to effortlessly generate custom logos and instantly visualize them mapped onto beautiful product mockups—all in real-time. 
 
 Say goodbye to complex design software; just type your idea and see it come to life on merchandise!
 
@@ -39,7 +39,7 @@ Say goodbye to complex design software; just type your idea and see it come to l
 
 ## 🏎️ Getting Started
 
-Want to run LogoStamp locally? Follow these simple steps:
+Want to run LogoMock locally? Follow these simple steps:
 
 ### Prerequisites
 Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
@@ -48,8 +48,8 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 
 1. **Clone the repository** (if you haven't already):
    ```bash
-   git clone https://github.com/Mintsolester/LogoStamp.git
-   cd LogoStamp
+   git clone https://github.com/Mintsolester/LogoMock.git
+   cd LogoMock
    ```
 
 2. **Install dependencies:**
