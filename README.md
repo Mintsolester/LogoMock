@@ -1,20 +1,81 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+  <img src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" alt="LogoStamp Banner" width="1200" height="475" />
+
+  <h1>🎨 LogoStamp</h1>
+  <p><strong>Your Ultimate AI-Powered Logo Mockup Generator</strong></p>
+
+  <p>
+    <a href="https://logomock.vercel.app">View Live App</a> •
+    <a href="#features">Features</a> •
+    <a href="#tech-stack">Tech Stack</a> •
+    <a href="#getting-started">Getting Started</a>
+  </p>
 </div>
 
-# Run and deploy your AI Studio app
+---
 
-This contains everything you need to run your app locally.
+## 🚀 What is LogoStamp?
 
-View your app in AI Studio: https://ai.studio/apps/5b5da945-7d46-47db-ac48-11636b2716d6
+**LogoStamp** is an interactive web application that bridges the gap between imagination and reality. Powered by Google's cutting-edge **Gemini API**, LogoStamp allows you to effortlessly generate custom logos and instantly visualize them mapped onto beautiful product mockups—all in real-time. 
 
-## Run Locally
+Say goodbye to complex design software; just type your idea and see it come to life on merchandise!
 
-**Prerequisites:**  Node.js
+## ✨ Features
 
+- **🧠 AI Logo Generation:** Harness the power of Gemini to create unique logos from text prompts.
+- **👕 Real-time Mockups:** Instantly preview your generated logos on various product mockups (t-shirts, mugs, etc.).
+- **⚡ Lightning Fast:** Built with Vite for rapid development and optimized production builds.
+- **🎭 Smooth Animations:** Enhanced with Framer Motion for a fluid, delightful user experience.
+- **🎨 Beautiful UI:** Styled with Tailwind CSS v4 and Lucide React icons.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🛠️ Tech Stack
+
+- **Frontend Framework:** React 19 + Vite
+- **Styling:** Tailwind CSS v4
+- **Animations:** Framer Motion
+- **Icons:** Lucide React
+- **AI Integration:** `@google/genai` (Gemini API)
+- **Language:** TypeScript
+
+## 🏎️ Getting Started
+
+Want to run LogoStamp locally? Follow these simple steps:
+
+### Prerequisites
+Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
+
+### Installation
+
+1. **Clone the repository** (if you haven't already):
+   ```bash
+   git clone https://github.com/Mintsolester/LogoStamp.git
+   cd LogoStamp
+   ```
+
+2. **Install dependencies:**
+   ```bash
+   npm install
+   ```
+
+3. **Set up your environment variables:**
+   - Rename `.env.example` to `.env.local` (or create a new `.env.local` file).
+   - Add your Google Gemini API key:
+   ```env
+   GEMINI_API_KEY=your_api_key_here
+   ```
+
+4. **Start the development server:**
+   ```bash
+   npm run dev
+   ```
+
+5. **Open your browser** and visit `http://localhost:3000` to see your app in action!
+
+## 🌐 Deployment
+
+This app is optimized for seamless deployment. We recommend deploying on **Vercel** for the best experience. The production URL is currently live at [logomock.vercel.app](https://logomock.vercel.app).
+
+---
+<div align="center">
+  <i>Built with ❤️ and powered by Google Gemini</i>
+</div>
