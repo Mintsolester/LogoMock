@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" alt="LogoMock Banner" width="1200" height="475" />
+  <img src="./assets/screenshot.png" alt="LogoMock App Screenshot" width="800" />
 
   <h1>🎨 LogoMock</h1>
   <p><strong>Your Ultimate AI-Powered Logo Mockup Generator</strong></p>
