@@ -1,0 +1,6 @@
+{
+  "name": "Product Mockup Generator",
+  "description": "Upload your custom brand logo and preview it instantly on high-quality t-shirts, mugs, hoodies, tote bags, and more with customizable scaling, positioning, and colors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
